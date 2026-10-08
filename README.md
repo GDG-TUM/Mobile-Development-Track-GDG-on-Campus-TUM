@@ -1,23 +1,35 @@
 <div align="center">
 
-# 🤳 Mobile Development Track | GDG on Campus TUM
+<img src="assets/banner.svg" alt="Mobile Development Track of GDG on Campus TUM: Learn it. Build it. Ship it." width="100%">
 
-### Learn it. Build it. Ship it.
+<br/>
 
 ![Weeks](https://img.shields.io/badge/semester-9%20weeks-4285F4?style=for-the-badge)
 ![Level](https://img.shields.io/badge/level-beginner%20friendly-34A853?style=for-the-badge)
 ![Stack](https://img.shields.io/badge/stack-Kotlin%20%C2%B7%20Jetpack%20Compose%20%C2%B7%20Firebase-EA4335?style=for-the-badge)
 ![Tools](https://img.shields.io/badge/tools-Android%20Studio%20%C2%B7%20GitHub-FBBC04?style=for-the-badge&labelColor=555)
 
-[🚀 Getting Started](GETTING-STARTED.md) · [📅 Weekly Sessions](weekly-sessions/README.md) · [🧭 Learning Path](learning-path/README.md) · [🛠️ Projects](projects/README.md) · [📚 Resources](resources/README.md) · [❓ Questions](https://github.com/GDG-TUM/Mobile-Development-Track-GDG-on-Campus-TUM/issues/new/choose)
+[🔭 Vision](vision/README.md) · [🚀 Getting Started](GETTING-STARTED.md) · [📅 Weekly Sessions](weekly-sessions/README.md) · [🧭 Learning Path](learning-path/README.md) · [🛠️ Projects](projects/README.md) · [📚 Docs](docs/README.md) · [👥 Members](members/README.md)
 
 </div>
 
 ---
 
-The Mobile Development Track is for students who want to learn how to build useful Android apps with modern tools, good practices, and a real product mindset. We start from the basics, build together, and finish with a project you can explain and present.
+## ✨ Why this track exists
 
-**No experience is needed.** If you can use a laptop and you are curious, you belong here.
+Mobile apps are no longer a niche skill. They are a practical way to build products, solve real user problems, and create a visible portfolio that employers and communities can evaluate.
+
+This track exists to help students move from “I use apps” to “I can build them.” We learn by shipping small, useful products with modern Android tools, clean architecture, and community support.
+
+We teach the way real teams work: version control, project structure, debugging, simple testing, and product thinking. The goal is not only to write code, but to build confidence and deliver something that works.
+
+🔭 **Want to see the broader direction?** Read [the vision](vision/README.md).
+
+| 📱 Understand | 🔨 Build | 🤝 Ship with confidence |
+|---|---|---|
+| Learn how Android apps are structured and why the tools work the way they do. | Create real app features, screens, and flows using Kotlin and Jetpack Compose. | Present a working mobile project, explain decisions, and keep improving. |
+
+**No mobile development experience is needed.** If you can use a laptop, install software, and stay curious, you belong here.
 
 > [!TIP]
 > **Lost in this repo?** Start with [GETTING-STARTED.md](GETTING-STARTED.md), then follow the [weekly sessions](weekly-sessions/README.md).
@@ -34,15 +46,17 @@ The Mobile Development Track is for students who want to learn how to build usef
 | **2** | Set up Android Studio, Git and the tools | [GETTING-STARTED.md](GETTING-STARTED.md) |
 | **3** | Make your first contribution by adding your profile | [members/](members/README.md) |
 | **4** | Open Week 1 and follow the session plan | [weekly-sessions/](weekly-sessions/README.md) |
-| **5** | Share your plan and build a project | [member-roadmaps](https://github.com/GDG-TUM/member-roadmaps) |
+| **5** | Share your plan and build a capstone app | [member-roadmaps](https://github.com/GDG-TUM/member-roadmaps) |
 
 ### Or jump straight to what you need
 
 | I want to... | Go here |
 |--------------|---------|
+| **Understand what this track is about** | [The vision](vision/README.md) |
 | **Set up Android Studio and tools** | [Getting Started](GETTING-STARTED.md) |
 | **See the weekly plan** | [Weekly Sessions](weekly-sessions/README.md) |
 | **Follow the full learning path** | [Learning Path](learning-path/README.md) |
+| **See the plan, week by week** | [Roadmap](roadmap/semester-roadmap.md) |
 | **Start or join a project** | [Projects](projects/README.md) |
 | **Find free resources and cheat sheets** | [Resources](resources/README.md) |
 | **Understand the track workflow** | [Docs](docs/README.md) |
@@ -71,7 +85,7 @@ flowchart LR
 
 ## 🎯 Track goals for the 2026/27 academic year
 
-By the end of the semester, every active member should be able to:
+By the end of this semester, every active member should be able to:
 
 1. Explain the Android app stack and how a mobile app is built
 2. Write Kotlin code confidently and use Jetpack Compose for UI
@@ -87,7 +101,7 @@ By the end of the semester, every active member should be able to:
 
 ## 🧭 Learning path
 
-Six stages that move from fundamentals to shipping a complete app. [See the full learning path →](learning-path/README.md)
+Six stages that move from beginner-friendly foundations to shipping a complete app. [See the full learning path →](learning-path/README.md)
 
 | Stage | Topics | Outcome | Read |
 |-------|--------|---------|------|
@@ -244,12 +258,15 @@ Mobile-Development-Track-GDG-on-Campus-TUM/
 ├── resources/                         ← docs, cheat sheets, references
 ├── members/                           ← add your profile and plans
 ├── docs/                              ← workflow and track process docs
-├── assets/                            ← banner and other visuals
+├── vision/                            ← what mobile development can do
+├── roadmap/                           ← semester planning
+├── assets/                            ← banner and visual assets
 ├── .github/                           ← issue templates and workflows
-└── MOBILE_TRACK_9_WEEK_CALENDAR.md    ← 9-week schedule
+├── MOBILE_TRACK_9_WEEK_CALENDAR.md    ← 9-week schedule
+└── ...
 ```
 
-**Folder links:** [weekly-sessions](weekly-sessions/README.md) · [learning-path](learning-path/README.md) · [projects](projects/README.md) · [resources](resources/README.md) · [members](members/README.md)
+**Folder links:** [weekly-sessions](weekly-sessions/README.md) · [learning-path](learning-path/README.md) · [projects](projects/README.md) · [resources](resources/README.md) · [members](members/README.md) · [docs](docs/README.md)
 
 ---
 

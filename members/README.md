@@ -1,38 +1,36 @@
-# 👥 Members
+# Members
 
 [← Back to Mobile Development Track home](../README.md)
 
-This space is for member profiles, plans, and learning notes.
+The members area is where new contributors get started. Your first contribution can be as small as adding your profile, your learning goals, or a short note about your journey in the track.
 
-## How to contribute
-1. Create a new file with your name (for example `ian-chacha.md`)
-2. Add your interest in mobile development
-3. Share your learning goals and project ideas
-4. Link your GitHub profile
-5. Open a pull request
+## First contribution checklist
 
-## Example member profile
+- Join the GDG-TUM GitHub organization
+- Fork or branch this repo
+- Add your profile or learning roadmap
+- Open a pull request with a short description
+- Ask for feedback if something needs improvement
 
-```markdown
-# Ian Chacha
+## Example profile
 
-**GitHub:** [@ianchacha](https://github.com/ianchacha)
+```md
+## Your Name
 
-**Interests:** Android, Kotlin, Firebase
-
-**Learning goals:**
-- Build a campus marketplace app
-- Master Jetpack Compose
-- Deploy to Google Play Store
-
-**Project ideas:**
-- Event management app for GDG chapters
-- Study group finder
+- Track role: Member
+- Interest: Android, Kotlin, Firebase
+- GitHub: @yourusername
+- Goals: Learn Jetpack Compose, build 2 mini apps, ship a capstone
 ```
 
-## Getting involved
-1. Join the [GDG-TUM GitHub organization](https://github.com/GDG-TUM)
-2. Add your profile to this folder
-3. Share your plan in [member-roadmaps](https://github.com/GDG-TUM/member-roadmaps)
-4. Attend weekly sessions
-5. Start your capstone project
+## Good starter tasks
+
+- Improve a resource section
+- Add a note to a weekly session
+- Fix a typo or confusion in documentation
+- Add a useful cheat sheet or learning summary
+- Share a project idea or starter app concept
+
+## Community norm
+
+Keep contributions small, readable, and useful. Good documentation helps everyone move faster.

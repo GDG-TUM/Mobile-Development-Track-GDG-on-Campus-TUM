@@ -1,0 +1,37 @@
+<svg width="1600" height="420" viewBox="0 0 1600 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1600" y2="420" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1F2937"/>
+      <stop offset="0.5" stop-color="#0F172A"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="200" y1="0" x2="1400" y2="420" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#4285F4"/>
+      <stop offset="0.5" stop-color="#34A853"/>
+      <stop offset="1" stop-color="#EA4335"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="420" rx="24" fill="url(#bg)"/>
+  <rect x="60" y="70" width="240" height="240" rx="32" fill="url(#accent)" fill-opacity="0.18" stroke="#5EA2FF" stroke-opacity="0.9"/>
+  <path d="M110 220C110 166.98 153.98 123 207 123H211C264.02 123 308 166.98 308 220V260H110V220Z" fill="#34A853" fill-opacity="0.9"/>
+  <rect x="138" y="150" width="138" height="128" rx="16" fill="#111827" fill-opacity="0.7"/>
+  <rect x="170" y="180" width="74" height="14" rx="7" fill="#E5E7EB"/>
+  <rect x="170" y="210" width="96" height="14" rx="7" fill="#E5E7EB" fill-opacity="0.8"/>
+  <rect x="170" y="240" width="88" height="14" rx="7" fill="#E5E7EB" fill-opacity="0.7"/>
+
+  <g opacity="0.9">
+    <circle cx="470" cy="112" r="12" fill="#4285F4"/>
+    <circle cx="538" cy="112" r="12" fill="#34A853"/>
+    <circle cx="606" cy="112" r="12" fill="#EA4335"/>
+  </g>
+
+  <text x="405" y="198" fill="#F9FAFB" font-family="Arial, Helvetica, sans-serif" font-size="62" font-weight="700">Mobile Development</text>
+  <text x="405" y="270" fill="#E5E7EB" font-family="Arial, Helvetica, sans-serif" font-size="54" font-weight="600">Track of GDG on Campus TUM</text>
+  <text x="405" y="332" fill="#9CA3AF" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="500">Learn it. Build it. Ship it.</text>
+
+  <rect x="1180" y="110" width="290" height="184" rx="18" fill="#111827" fill-opacity="0.7" stroke="#EA4335" stroke-opacity="0.7"/>
+  <text x="1212" y="165" fill="#F9FAFB" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700">STACK</text>
+  <text x="1212" y="216" fill="#79A7FF" font-family="Arial, Helvetica, sans-serif" font-size="36" font-weight="700">Kotlin</text>
+  <text x="1212" y="260" fill="#5ABF7D" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700">Compose</text>
+  <text x="1212" y="300" fill="#F59F9F" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700">Firebase</text>
+</svg>

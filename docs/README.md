@@ -5,6 +5,7 @@
 This folder is for process, mentoring, and track structure notes.
 
 ## Pages
+
 - [Workflow](workflow.md) - How to contribute and work in this repo
 - [Session playbook](session-playbook.md) - How sessions are run
 - [Project lifecycle](project-lifecycle.md) - From idea to demo day
@@ -23,3 +24,5 @@ Stages of project development and what is expected at each step.
 
 ### Maintainers Guide
 Setup, operations, and handover guidance for future track leads.
+
+**Related, at the repository root:** [Contributing](../CONTRIBUTING.md) · [Governance](../GOVERNANCE.md) · [Code of Conduct](../CODE_OF_CONDUCT.md) · [Security](../SECURITY.md) · [Support](../SUPPORT.md)
