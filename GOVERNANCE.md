@@ -1,41 +1,63 @@
 # Governance
 
-## Roles
+[← Back to Mobile Development Track home](../README.md)
+
+## Roles and responsibilities
 
 ### Track Lead
-- Plans the semester roadmap
-- Runs or coordinates sessions
-- Maintains the repository
-- Supports project teams
-- Gathers feedback and improves the track
+
+- Plans the semester and decides on content
+- Runs sessions and keeps the momentum going
+- Maintains this repository and reviews pull requests
+- Supports team projects and mentors members
+- Listens to feedback and adapts the track
 
 ### Maintainers
-- Review pull requests and GitHub issues
-- Help members with technical questions
-- Support session facilitation
-- Triage bugs and feature requests
-- Mentor new contributors
+
+- Review pull requests and merge good contributions
+- Help triage issues and questions
+- Assist the track lead during sessions
+- Mentor new members and answer questions
 
 ### Mentors (invited)
-- Provide feedback on projects
-- Guest speakers on specific topics
-- Review architecture and code quality
-- Share industry perspective
-- Help with demo day presentations
+
+- Coach project teams
+- Review code and designs
+- Share real-world experience
+- Help with debugging and problem-solving
 
 ### Members
-- Attend sessions regularly
-- Complete weekly challenges
-- Build a capstone project
-- Help peers and collaborate
-- Contribute improvements to the track repo
 
-## Decision Making
+- Attend sessions and engage with the material
+- Complete challenges and build projects
+- Help each other and ask questions
+- Contribute improvements to the repo
+- Be kind and respectful
 
-- **Small decisions:** Track lead decides after asking for input
-- **Medium decisions:** Discussed in team meetings, consensus sought
-- **Large decisions:** Discussed with the chapter leadership
+## How to become a maintainer
 
-## Code of Conduct
+1. Be an active track member for at least 4 weeks
+2. Make quality contributions (code, docs, or support)
+3. Show up for sessions and help others
+4. Ask the track lead if you are interested
 
-We follow the [Code of Conduct](CODE_OF_CONDUCT.md). Everyone is welcome, and we create a respectful, inclusive environment.
+We look for people who are:
+- Reliable and kind
+- Willing to help others learn
+- Detail-oriented about quality
+- Open to feedback and new ideas
+
+## Decision making
+
+- **Day-to-day**: Track lead decides
+- **Curriculum changes**: Lead gathers feedback, decides
+- **Major shifts**: Discussion with core team and members
+- **Code and contributions**: Maintainers review and approve
+
+## Questions?
+
+Ask in the track channel or open an issue. This is a living document and we welcome feedback.
+
+---
+
+[← Back to Mobile Development Track home](../README.md)

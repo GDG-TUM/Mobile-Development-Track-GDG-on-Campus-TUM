@@ -1,31 +1,51 @@
 # Code of Conduct
 
-We are committed to providing a respectful, inclusive, and welcoming environment for everyone involved in the Mobile Development Track.
+[← Back to Mobile Development Track home](../README.md)
 
-## Our expectations
+All members of the GDG on Campus TUM mobile development track are expected to abide by this Code of Conduct. We are committed to providing a welcoming and inclusive community for everyone.
 
-- Be respectful and considerate in all discussions
-- Welcome newcomers and help them learn
-- Give constructive feedback and receive it with openness
-- Focus on ideas, code, and learning rather than personal attacks
-- Keep collaboration safe and inclusive
+## Our values
 
-## Unacceptable behavior
+- **Inclusive.** Everyone, regardless of experience, background, or identity, is welcome and respected.
+- **Respectful.** We listen to each other, value different perspectives, and disagree gracefully.
+- **Supportive.** We help each other learn and succeed. No question is too basic.
+- **Honest.** We give and receive feedback kindly and directly.
 
-Examples of unacceptable behavior include:
+## Behavior we expect
 
-- harassment, discrimination, or threatening comments
-- personal attacks or insulting language
-- disruptive behavior in discussions or sessions
-- sharing private or sensitive information without consent
+- Treat all members with respect
+- Help each other learn
+- Ask questions if something is unclear
+- Share resources and credit others
+- Give people the benefit of the doubt
+- Report problems to the track lead
 
-## Reporting
+## Behavior we do not tolerate
 
-If you experience or witness unacceptable behavior, please report it to the GDG-TUM organizers or track maintainers.
+- Discrimination or harassment based on identity
+- Unwelcome advances or invasive questions
+- Plagiarism or taking credit for others' work
+- Intentionally derailing sessions or discussions
+- Public shaming or aggressive criticism
 
-We will review reports promptly and take appropriate action.
+## If something goes wrong
+
+If you witness or experience behavior that violates this code, please:
+
+1. **Tell the person** if it is safe to do so
+2. **Contact the track lead** privately
+3. **We will listen** and work to resolve it
+
+Reporting a problem will not affect your standing in the track. Your safety and comfort matter.
 
 ## Scope
 
-This code of conduct applies to all track activities, including sessions, GitHub discussions, issue threads, and community communication.
+This code applies to all official track spaces:
+- Sessions and workshops
+- GitHub discussions and PRs
+- Chat channels and video calls
+- Events and social gatherings
 
+---
+
+[← Back to Mobile Development Track home](../README.md)

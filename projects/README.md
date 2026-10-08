@@ -1,50 +1,64 @@
-# 🚀 Projects
+# Projects
 
 [← Back to Mobile Development Track home](../README.md)
 
-The capstone project is the main outcome of this track.
+## Project guide
 
-## What a strong project should have
-- A real problem or user need
-- A clear feature set
-- A working prototype
-- A public GitHub repo
-- A short demo and reflection
+Your capstone project is the main deliverable of this track. It should be something you actually want to build, not something that just sounds impressive on paper.
+
+### What makes a good project
+
+- **Solves a real problem** (or helps a real person)
+- **Has clear features** you can scope and explain
+- **Uses what you learned** (Firebase, data, navigation, etc.)
+- **Fits in 2 weeks** (no all-encompassing apps)
+- **You are excited about** it
 
 ## Project ideas
-- Campus marketplace app
-- Study planner with reminders
-- Local event app
-- Health or fitness tracker
-- Community board or message board
-- On-campus resource finder
-- Personal expense tracker
-- Habit or goal tracker
 
-## Recommended workflow
-1. Pick a user and a problem.
-2. Write a short idea and feature list.
-3. Build the smallest version that works.
-4. Test with real users or peers.
-5. Improve and present your app.
+### Beginner
 
-## Project template
-Use this structure for your GitHub project:
+- Study planner app (save tasks, set reminders)
+- Habit tracker (track daily habits with a checklist)
+- Recipe book (save and search recipes)
+- Simple expense tracker
+- Bookmark app for articles or links
 
-```text
-your-project/
-├── README.md          (what is this, how to run it)
-├── .gitignore
-├── app/               (Android app code)
-│   ├── src/main/
-│   └── build.gradle
-├── docs/              (project notes)
-└── REFLECTION.md      (what you learned)
-```
+### Intermediate
 
-## Sharing your project
-1. Push to GitHub with a public repo
-2. Add a clear README
-3. Include a screenshot or demo video
-4. Share in the track channel
-5. Present at demo day
+- Campus marketplace (buy/sell student items)
+- Event app for GDG chapters (list, RSVP, details)
+- Fitness tracker (steps, workouts, goals)
+- Note-taking app with tags and search
+- Movie or book recommendation app
+
+### Advanced
+
+- Real-time chat app (using Firebase)
+- Collaborative whiteboard or to-do list
+- Map-based service finder (restaurants, ATMs, etc.)
+- Quiz or learning game with scoring
+- Community board for local events or announcements
+
+## How to start
+
+1. **Pick an idea** that excites you
+2. **Scope it down** if it seems too big
+3. **Write a one-paragraph description** (problem, solution, key features)
+4. **Open an issue** in this repo with the tag "project-proposal"
+5. **Get feedback** from mentors and peers
+6. **Start building** in Week 8
+
+## Showcase
+
+Finished projects go here. If you built something you are proud of, add it to the showcase with:
+
+- App name and description
+- GitHub repo link
+- Screenshot or short demo video
+- Key tech stack
+- What you learned
+
+---
+
+[← Back to Mobile Development Track home](../README.md)
