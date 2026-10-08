@@ -1,6 +1,6 @@
 # Week 4: Data and Persistence
 
-This week looks at saving data locally and working with structured data.
+[← Back to weekly sessions](../README.md)
 
 ## Goals
 - Learn local persistence basics
@@ -16,4 +16,6 @@ This week looks at saving data locally and working with structured data.
 ## Challenge
 Build a to-do list or notes app with persistent storage.
 
-[← Back to weekly sessions](../README.md)
+## Resources
+- [Room Documentation](https://developer.android.com/jetpack/androidx/releases/room)
+- [SharedPreferences Guide](https://developer.android.com/training/data-storage/shared-preferences)

@@ -1,6 +1,6 @@
 # Week 6: Architecture and Quality
 
-This week is about making code understandable and maintainable.
+[← Back to weekly sessions](../README.md)
 
 ## Goals
 - Separate UI from logic
@@ -16,4 +16,6 @@ This week is about making code understandable and maintainable.
 ## Challenge
 Refactor a previous app to use a cleaner architecture and add one test.
 
-[← Back to weekly sessions](../README.md)
+## Resources
+- [Guide to App Architecture](https://developer.android.com/jetpack/guide)
+- [Android Testing Guide](https://developer.android.com/training/testing)

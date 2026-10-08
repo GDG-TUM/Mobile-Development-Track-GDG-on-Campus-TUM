@@ -1,6 +1,6 @@
 # Week 5: Firebase
 
-This week introduces Firebase and backend-connected app features.
+[← Back to weekly sessions](../README.md)
 
 ## Goals
 - Set up Firebase in an Android app
@@ -16,4 +16,6 @@ This week introduces Firebase and backend-connected app features.
 ## Challenge
 Build an app that stores or reads a shared dataset from Firebase.
 
-[← Back to weekly sessions](../README.md)
+## Resources
+- [Firebase Documentation](https://firebase.google.com/docs)
+- [Firebase Android Setup](https://firebase.google.com/docs/android/setup)

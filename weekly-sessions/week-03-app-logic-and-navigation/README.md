@@ -1,6 +1,6 @@
 # Week 3: App Logic and Navigation
 
-This week introduces navigation and app flow.
+[← Back to weekly sessions](../README.md)
 
 ## Goals
 - Create multiple screens
@@ -16,4 +16,6 @@ This week introduces navigation and app flow.
 ## Challenge
 Create a mini app with at least two screens and a simple data flow.
 
-[← Back to weekly sessions](../README.md)
+## Resources
+- [Jetpack Navigation](https://developer.android.com/jetpack/androidx/releases/navigation)
+- [ViewModel Documentation](https://developer.android.com/topic/libraries/architecture/viewmodel)

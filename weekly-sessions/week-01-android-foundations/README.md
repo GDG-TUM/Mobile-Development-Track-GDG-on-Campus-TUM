@@ -1,6 +1,6 @@
 # Week 1: Android Foundations
 
-This week introduces the Android app ecosystem, Kotlin basics, and the tooling needed to start building.
+[← Back to weekly sessions](../README.md)
 
 ## Goals
 - Understand how Android apps are structured
@@ -17,4 +17,6 @@ This week introduces the Android app ecosystem, Kotlin basics, and the tooling n
 ## Challenge
 Build a small app that shows a greeting message and a button that updates the text.
 
-[← Back to weekly sessions](../README.md)
+## Resources
+- [Android Developers Documentation](https://developer.android.com/docs)
+- [Kotlin Docs](https://kotlinlang.org/docs/home.html)

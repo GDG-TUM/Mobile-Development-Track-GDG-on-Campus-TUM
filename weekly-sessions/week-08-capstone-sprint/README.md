@@ -1,6 +1,6 @@
 # Week 8: Capstone Sprint
 
-This week is focused on building the main project.
+[← Back to weekly sessions](../README.md)
 
 ## Goals
 - Scope a realistic app idea
@@ -16,4 +16,6 @@ This week is focused on building the main project.
 ## Challenge
 Ship the first working version of your capstone project.
 
-[← Back to weekly sessions](../README.md)
+## Resources
+- [Debugging Guide](https://developer.android.com/studio/debug)
+- [Performance Profiling](https://developer.android.com/studio/profile)

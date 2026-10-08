@@ -1,5 +1,7 @@
 # 📅 Weekly Sessions
 
+[← Back to Mobile Development Track home](../README.md)
+
 This directory is the home for each week of the Mobile Development Track.
 
 | Week | Focus | Folder |
@@ -15,5 +17,3 @@ This directory is the home for each week of the Mobile Development Track.
 | 9 | Launch and reflection | [week-09-launch-and-reflection](week-09-launch-and-reflection/README.md) |
 
 Use the weeks in order. Each session includes a short concept walk-through, a hands-on task, and a challenge to continue outside the session.
-
-[← Back to Mobile Development Track home](../README.md)

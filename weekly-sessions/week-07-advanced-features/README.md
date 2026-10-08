@@ -1,6 +1,6 @@
 # Week 7: Advanced Features
 
-This week explores more production-quality mobile features.
+[← Back to weekly sessions](../README.md)
 
 ## Goals
 - Add useful product features
@@ -16,4 +16,6 @@ This week explores more production-quality mobile features.
 ## Challenge
 Add one advanced feature to a project and explain why it matters to users.
 
-[← Back to weekly sessions](../README.md)
+## Resources
+- [Notifications Documentation](https://developer.android.com/develop/ui/views/notifications)
+- [Accessibility Guide](https://developer.android.com/guide/topics/ui/accessibility)

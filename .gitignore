@@ -1,0 +1,41 @@
+# Gradle
+.gradle
+*.gradle
+build/
+.gradletasknamecache
+
+# Android Studio
+.idea/
+*.iml
+*.iws
+*.ipr
+.DS_Store
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Firebase
+google-services.json
+ServiceAccountKey.json
+
+# Environment and secrets
+.env
+.env.local
+*.pem
+*.key
+
+# Node modules (if using web tech)
+node_modules/
+npm-debug.log
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Miscellaneous
+*.log
+*.swp
+.vscode/

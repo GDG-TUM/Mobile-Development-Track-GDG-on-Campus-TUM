@@ -1,6 +1,6 @@
 # Week 9: Launch and Reflection
 
-This week is for polishing, presenting, and reflecting.
+[← Back to weekly sessions](../README.md)
 
 ## Goals
 - Finalize the app
@@ -16,4 +16,6 @@ This week is for polishing, presenting, and reflecting.
 ## Challenge
 Prepare a short demo and write a reflection on what worked and what you would improve.
 
-[← Back to weekly sessions](../README.md)
+## Resources
+- [Publishing Overview](https://developer.android.com/studio/publish)
+- [App Quality Guidelines](https://developer.android.com/quality)

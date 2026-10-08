@@ -1,6 +1,6 @@
 # Week 2: UI and Compose
 
-This week focuses on modern Android UI using Jetpack Compose.
+[← Back to weekly sessions](../README.md)
 
 ## Goals
 - Understand Compose basics
@@ -16,4 +16,6 @@ This week focuses on modern Android UI using Jetpack Compose.
 ## Challenge
 Build a small profile or task form screen that uses text fields and a button.
 
-[← Back to weekly sessions](../README.md)
+## Resources
+- [Jetpack Compose Documentation](https://developer.android.com/jetpack/compose)
+- [Material Design 3](https://m3.material.io)
