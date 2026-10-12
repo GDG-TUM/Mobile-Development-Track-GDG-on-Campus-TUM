@@ -11,6 +11,8 @@
 
 [🔭 Vision](vision/README.md) · [🚀 Getting Started](GETTING-STARTED.md) · [📅 Weekly Sessions](weekly-sessions/README.md) · [🧭 Learning Path](learning-path/README.md) · [🛠️ Projects](projects/README.md) · [📚 Docs](docs/README.md) · [👥 Members](members/README.md)
 
+[Visit the interactive content page:](https://gdg-tum.github.io/Mobile-Development-Track-GDG-on-Campus-TUM/)
+
 </div>
 
 ---
